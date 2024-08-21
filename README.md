@@ -2,9 +2,6 @@
 
 Bem-vindo ao projeto **Carrinho de Compras**! Este projeto foi desenvolvido para proporcionar uma experiência de compras online interativa, onde você pode adicionar produtos ao carrinho, visualizar o total das compras e, se necessário, limpar o carrinho para iniciar uma nova compra.
 
-<p align="center">
-  <img src="" alt="Imagem do projeto">
-</p>
 
 ## 🎨 Tecnologias Utilizadas
 
@@ -26,7 +23,7 @@ Bem-vindo ao projeto **Carrinho de Compras**! Este projeto foi desenvolvido para
 
 ## 📸 Screenshot
 
-![Carrinho de Compras]()
+![Carrinho de Compras](https://github.com/user-attachments/assets/be4ee373-4993-4bad-944b-f8b563b3847e)
 
 ## 📝 Observações
 
