@@ -40,6 +40,6 @@ O design do projeto é moderno e intuitivo, com uma paleta de cores agradável p
 
 ---
 
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por Natália
 
 
